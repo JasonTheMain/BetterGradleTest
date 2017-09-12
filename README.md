@@ -1,2 +1,2 @@
 # BetterGradleTest
-tha man
+tha man with a plan
